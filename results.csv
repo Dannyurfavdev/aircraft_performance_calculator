@@ -1,0 +1,11 @@
+Metric,Value
+Range (miles),2700.0
+Endurance (hours),18.0
+Total Weight (pounds),11000
+CG Position (feet),8.333333333333334
+Lift (N),183750.0
+Drag (N),2450.0
+Aircraft Weight (N),49050.0
+Acceleration (m/s^2),-9.61
+Velocity after 10s (m/s),70
+Distance in 10s (m),500
